@@ -1,0 +1,15 @@
+{
+	"name": "Adfrepos",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "67ccd8b1-841b-4824-a93f-e2793743be56",
+		"tenantId": "67731127-b4e7-41f7-ae99-52cb8cb6e8aa"
+	}
+}
